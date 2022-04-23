@@ -36,6 +36,12 @@
 1. [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://www.self-driving-cars.org/papers/2022-safetynet)
 <img src="https://lh6.googleusercontent.com/pU0PsapK0_4U841iF1pMGzVjbWFoQq9AUsDuwp6TaZdfC78pViAQFNwRg8hRfQUcnmkduC_HXNr7oX-x6DjQCmXRqguOGPzxuMLc_7p23l2DNS0bOIBH2OEiGZZiGqmJkg=w1280" />
 
+### Synthetic Dataset
+1. [The SYNTHIA dataset](http://synthia-dataset.net/)
+  * SYNTHIA consists of a collection of photo-realistic frames rendered from a virtual city and comes with precise pixel-level semantic annotations for 13 classes: misc, sky, building, road, sidewalk, fence, vegetation, pole, car, sign, pedestrian, cyclist, lane-marking.
+<img src="http://synthia-dataset.net/wp-content/uploads/2016/06/s_000_22-06-2016_17-35-02_000000.png" />
+
+
 ## Face
 
 ## Human
