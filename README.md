@@ -27,6 +27,7 @@
   * The training and validation scenes are 5 or 10 seconds long and consist of 50 or 100 samples with corresponding Luminar-H2 pointcloud and six image frames including intrinsic and extrinsic calibration.
   * The training set contains 150 scenes with a total of 12650 individual samples (75900 RGB images), and the validation set contains 50 scenes with a total of 3950 samples (23700 RGB images).
   * train+val 257 GB
+<img src="https://github.com/TRI-ML/DDAD/raw/master/media/figs/ddad_viz.gif" />
 
 ### Thermal Imaging
 1. [FREE Teledyne FLIR Thermal Dataset for Algorithm Training](https://www.flir.ca/oem/adas/adas-dataset-form/)
