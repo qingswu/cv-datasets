@@ -17,12 +17,16 @@
   * 100,000 annotated frames for each LiDAR/Radar sensor
   * 26M 2D/3D bounding boxes precisely annotated for 4 object classes (car, cyclist, motorcycle, pedestrian)
 <img src="http://www.aiodrive.org/resources/home/inclusiveness.png"/>
-4. [DAIR-V2X](https://thudair.baai.ac.cn/index), The world's first vehicle-road collaboration dataset release
+6. [DAIR-V2X](https://thudair.baai.ac.cn/index), The world's first vehicle-road collaboration dataset release
   * Totally 71254 LiDAR frames and 71254 Camera images:
     - DAIR-V2X Cooperative Dataset (DAIR-V2X-C): 38845 LiDAR frames, 38845 Camera images
     - DAIR-V2X Infrastructure Dataset (DAIR-V2X-I): 10084 LiDAR frames, 10084 Camera images
     - DAIR-V2X Vehicle Dataset (DAIR-V2X-V): 22325 LiDAR frames, 22325 Camera images 
 <img src="https://thudair.baai.ac.cn/static/img/road05.91a9e0fe.png" />
+7. [Dense Depth for Autonomous Driving (DDAD) dataset](https://github.com/TRI-ML/DDAD)
+  * The training and validation scenes are 5 or 10 seconds long and consist of 50 or 100 samples with corresponding Luminar-H2 pointcloud and six image frames including intrinsic and extrinsic calibration.
+  * The training set contains 150 scenes with a total of 12650 individual samples (75900 RGB images), and the validation set contains 50 scenes with a total of 3950 samples (23700 RGB images).
+  * train+val 257 GB
 
 ### Thermal Imaging
 1. [FREE Teledyne FLIR Thermal Dataset for Algorithm Training](https://www.flir.ca/oem/adas/adas-dataset-form/)
@@ -30,7 +34,6 @@
   * 9,711 thermal and 9,233 RGB training/validation images with a suggested training/validation split. Includes 16-bit pre-AGC frames
   * 7,498 total video frames recorded at 24Hz. 1:1 match between thermal and visible frames. Includes 16-bit pre-AGC frames
 <img src="https://www.flir.ca/contentassets/56f6b890db8b42919e792db742cf3a73/skateboarder-ir13.png"/>
-
 
 ### Motion Planning
 1. [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://www.self-driving-cars.org/papers/2022-safetynet)
