@@ -28,6 +28,27 @@
   * The training set contains 150 scenes with a total of 12650 individual samples (75900 RGB images), and the validation set contains 50 scenes with a total of 3950 samples (23700 RGB images).
   * train+val 257 GB
 <img src="https://github.com/TRI-ML/DDAD/raw/master/media/figs/ddad_viz.gif" />
+8. [Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html)
+  * The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data
+  * Sensor setup:
+    - Five LiDAR sensors
+      - Up to 100 m range
+      - +/- 3 cm accuracy
+      - 16 channels
+      - 10 Hz rotation rate
+      - 360° horizontal field of view
+      - +/- 15° vertical field of view
+    - Front centre camera
+      - 1920 × 1208 resolution
+      - 60° horizontal field of view
+      - 38° vertical field of view
+      - 30 fps framerate
+    - Surround cameras (5x)
+      - 1920 × 1208 resolution
+      - 120° horizontal view angle
+      - 73° vertical view angle
+      - 30 fps framerate
+<img src="https://www.a2d2.audi/content/dam/a2d2/sensor-setup/1920x1080-desktop-aev-sensor-grafik-1.jpg?imwidth=1920&imdensity=1" />
 
 ### Thermal Imaging
 1. [FREE Teledyne FLIR Thermal Dataset for Algorithm Training](https://www.flir.ca/oem/adas/adas-dataset-form/)
