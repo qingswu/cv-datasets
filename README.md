@@ -34,6 +34,7 @@
     | DAIR-V2X Cooperative Dataset<br/>(DAIR-V2X-C) | DAIR-V2X Infrastructure Dataset<br/>(DAIR-V2X-I) | DAIR-V2X Vehicle Dataset<br/>(DAIR-V2X-V)  |
     | --------------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
     | 38845 LiDAR frames<br/>38845 Camera images    | 10084 LiDAR frames<br/>10084 Camera images       | 22325 LiDAR frames<br/>22325 Camera images |
+
   * <img src="https://thudair.baai.ac.cn/static/img/road05.91a9e0fe.png" />
 6. [Dense Depth for Autonomous Driving - DDAD dataset](https://github.com/TRI-ML/DDAD)
   * The training and validation scenes are 5 or 10 seconds long and consist of 50 or 100 samples with corresponding Luminar-H2 pointcloud and six image frames including intrinsic and extrinsic calibration.
@@ -47,6 +48,7 @@
 | Five LiDAR sensors | Front centre camera | Surround cameras (5x) |
 | ------------------ | ------------------- | --------------------- |
 | <ul><li>Up to 100 m range</li><li>+/- 3 cm accuracy</li><li>16 channels</li><li>10 Hz rotation rate</li><li>360° horizontal field of view</li><li>+/- 15° vertical field of view</li> </ul> | <ul><li>1920 × 1208 resolution</li><li>60° horizontal field of view</li><li>38° vertical field of view</li><li>30 fps framerate</li></ul> | <ul><li>1920 × 1208 resolution</li><li>120° horizontal view angle</li><li>73° vertical view angle</li><li>30 fps framerate</li></ul> |
+  
   * <img src="https://www.a2d2.audi/content/dam/a2d2/sensor-setup/1920x1080-desktop-aev-sensor-grafik-1.jpg?imwidth=1920&imdensity=1" />
 
 ### Thermal Imaging
