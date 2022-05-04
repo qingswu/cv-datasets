@@ -67,6 +67,7 @@ The ONCE dataset is a large-scale autonomous driving dataset with 2D&3D object a
 * 15k fully annotated scenes with 5 classes (Car, Bus, Truck, Pedestrian, Cyclist)
 * Diverse environments (day/night, sunny/rainy, urban/suburban areas)
 
+<img src="https://once-for-auto-driving.github.io/assets/img/sensors.png" />
 
 ### Thermal Imaging
 #### [FREE Teledyne FLIR Thermal Dataset for Algorithm Training](https://www.flir.ca/oem/adas/adas-dataset-form/)
