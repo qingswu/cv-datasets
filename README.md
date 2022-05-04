@@ -58,7 +58,15 @@
 | Five LiDAR sensors | Front centre camera | Surround cameras (5x) |
 | ------------------ | ------------------- | --------------------- |
 | <ul><li>Up to 100 m range</li><li>+/- 3 cm accuracy</li><li>16 channels</li><li>10 Hz rotation rate</li><li>360° horizontal field of view</li><li>+/- 15° vertical field of view</li> </ul> | <ul><li>1920 × 1208 resolution</li><li>60° horizontal field of view</li><li>38° vertical field of view</li><li>30 fps framerate</li></ul> | <ul><li>1920 × 1208 resolution</li><li>120° horizontal view angle</li><li>73° vertical view angle</li><li>30 fps framerate</li></ul> |
+  
   * <img src="https://www.a2d2.audi/content/dam/a2d2/sensor-setup/1920x1080-desktop-aev-sensor-grafik-1.jpg?imwidth=1920&imdensity=1" />
+#### [One MILLION SCENES](https://once-for-auto-driving.github.io/index.html)
+The ONCE dataset is a large-scale autonomous driving dataset with 2D&3D object annotations.
+* 1 Million LiDAR frames, 7 Million camera images
+* 200 km² driving regions, 144 driving hours
+* 15k fully annotated scenes with 5 classes (Car, Bus, Truck, Pedestrian, Cyclist)
+* Diverse environments (day/night, sunny/rainy, urban/suburban areas)
+
 
 ### Thermal Imaging
 #### [FREE Teledyne FLIR Thermal Dataset for Algorithm Training](https://www.flir.ca/oem/adas/adas-dataset-form/)
