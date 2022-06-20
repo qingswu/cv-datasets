@@ -95,7 +95,9 @@ The ONCE dataset is a large-scale autonomous driving dataset with 2D&3D object a
 1. [Occluded Video Instance Segmentation (OVIS)](http://songbai.site/ovis/)
   * Highlights: ***occluded video instances***
   * OVIS consists of 296k high-quality instance masks from 25 semantic categories, where object occlusions usually occur.
-
+2. [VIPSeg DataSet: A large-scale VIdeo Panoptic Segmentation dataset](https://github.com/VIPSeg-Dataset/VIPSeg-Dataset)
+  * CVPR 2022: Large-scale Video Panoptic Segmentation in the Wild: A Benchmark
+  * <img src="https://github.com/VIPSeg-Dataset/VIPSeg-Dataset/raw/main/show_data.png" />
 
 ## Dataset Search Engine
 1. [BIFROST](https://datasets.bifrost.ai/)
